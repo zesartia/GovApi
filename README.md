@@ -1,1 +1,1 @@
-call api:  http://localhost/clients
+call api:  http://localhost/Law
